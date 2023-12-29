@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "AzHREAEzxdvSfT7cwaLXPkN7WNJ4arRWSVOhCGdt6ExvdJh+UlV4UnfgghQNZPrcAwKPhCnSgrna8RJemkuahg==",
+  "success": true,
+  "projectFilePath": "/Users/salt-dev/Own-Projects/29-Dec-React-Api/React-Api-C-Sharp--Practice/React-Api-C-Sharp--Practice.csproj",
+  "expectedPackageFiles": [
+    "/Users/salt-dev/.nuget/packages/microsoft.aspnetcore.openapi/7.0.9/microsoft.aspnetcore.openapi.7.0.9.nupkg.sha512",
+    "/Users/salt-dev/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/salt-dev/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/salt-dev/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/salt-dev/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/salt-dev/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/salt-dev/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
